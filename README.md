@@ -6,3 +6,6 @@ Using Zillow data, I was able to create a report that provides real estate inves
 
 Potential Limitations: This dataset does not include zip codes with an average housing price of less than $180,000 or zip codes with an average rent above $4,500. 
 Zip codes with less home sale postings on Zillow may contain inconsistent data due to outliers.
+
+Data from: https://www.zillow.com/research/data/ 
+Data last updated May 31st, 2023
